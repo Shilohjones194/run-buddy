@@ -217,45 +217,56 @@ header {
   font-size: 17px;
   line-height: 1.3;
 }
-.section-title .secondary-border{
+.section-title.secondary-border {
   font-size: 55px;
-  display: inline-block;
   padding: 0 100px 20px 100px;
-  border-bottom: 3px solid;
+  border-bottom: 3px solid; 
   margin-bottom: 35px;
-  color: #024e76;
+  color: #fce138;
+  display: block;
+  border-color: #39a6b2;
 }
 /* REACH OUT STYLES START */
 .contact {
   text-align: center;
   background: #024e76;
+  
 }
 .contact h2 {
   color: #fce138;
 }
+
 .contact-info iframe {
   width: 400px;
   height: 400px;
 }
-.contact-info div {
+
+.contact-info {
   width: 410px;
   display: inline-block;
   vertical-align: top;
-  text-align: left;
+  text-align: left; 
   margin: 30px 0 0 60px;
-  color: white;
+  
 }
-.contact-info h3 {
+.address-info {
+  display: inline-block;
+  vertical-align: left;
+  color: white;
+
+}
+.address-info h3 {
   color: #fce138;
   font-size: 32px;
 }
-.contact-info p, .contact-info address {
+.address-info p, .address-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
   font-style: normal;
 }
-.contact-info a {
+.address-info a {
   color: #fce138;
 }
+
 /* REACH OUT STYLES END */
