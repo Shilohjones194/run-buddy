@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy Inc.
 ## Purpose
 A website that offers fitness training services.
 
@@ -10,4 +10,4 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Luke Jones
