@@ -110,7 +110,7 @@ section {
   background-image: url('../images/hero-bg.jpg');
   background-size: cover;
   background-position: center;
-  display: flex;
+  display: flex; 
   justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
